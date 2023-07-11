@@ -15,14 +15,13 @@ body {
 
 /* Add some spacing and alignment to the header */
 header {
-  background-color: rgb(240, 240, 240);
-  background-image: url('https://drive.https://drive.google.com/file/d/1a18T0NqgourVJ0nsx1Qy70lg3T_zRohj/view?usp=drive_link.com/file/d/11-kDn7cPCpwn5ef936ollc0vk5X9RRHp/view?usp=drive_link');
-  background-position: center top;
-  background-repeat: no-repeat;
-  background-size: cover;
-  line-height: 1.2;
   padding: 20px;
   text-align: center;
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255); /* Set header text color in RGB */
 }
 
 h1 {
