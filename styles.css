@@ -1,0 +1,77 @@
+/* Reset default browser styles */
+* {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a base font size and font family */
+body {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: rgb(51, 51, 51); /* Set default text color in RGB */
+}
+
+/* Add some spacing and alignment to the header */
+header {
+  background-color: rgb(240, 240, 240);
+  background-image: url('https://drive.https://drive.google.com/file/d/1a18T0NqgourVJ0nsx1Qy70lg3T_zRohj/view?usp=drive_link.com/file/d/11-kDn7cPCpwn5ef936ollc0vk5X9RRHp/view?usp=drive_link');
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: rgb(201, 20, 20); /* Set heading text color in RGB */
+}
+
+/* Style the introduction section */
+.introduction {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(24, 139, 192);
+}
+
+/* Style the main content sections */
+.section-1,
+.section-2,
+.third-section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(205, 218, 31);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: rgb(68, 68, 68); /* Set main content text color in RGB */
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: rgb(17, 13, 253); /* Set sub-heading text color in RGB */
+}
+
+p {
+  margin-bottom: 10px;
+  color: rgb(51, 51, 51); /* Set paragraph text color in RGB */
+}
+
+pre {
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+  overflow-x: auto;
+  font-family: Consolas, monospace;
+  color: rgb(36, 138, 53); /* Set code text color in RGB */
+}
+
+/* Style the body background and add some spacing */
+body {
+  background-color: rgb(245, 245, 245);
+  padding: 20px;
+  color: rgb(51, 51, 51); /* Set default text color in RGB */
+}
