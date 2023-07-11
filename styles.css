@@ -17,11 +17,18 @@ body {
 header {
   padding: 20px;
   text-align: center;
-  background-image: url('');
+  background-image: url('background.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   color: rgb(255, 255, 255); /* Set header text color in RGB */
+}
+
+header img {
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px;
 }
 
 h1 {
